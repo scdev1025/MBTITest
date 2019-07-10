@@ -10,6 +10,6 @@
 4. `python manage.py runserver`
 
 ## Usage
-Visit `/api/v1/` to see the available apis.
+Visit `http://localhost:8000/api/v1/` to see the available apis.
 
 Here's api url for some apis
