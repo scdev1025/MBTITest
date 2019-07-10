@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 It's using local django backend, you can modify rest api url on `/src/api`.
+
 Currently, `http://localhost:8000/api/v1` is used for rest api url.
 
 ## Available Scripts
